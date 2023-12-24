@@ -8,6 +8,11 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.10"
+python-decouple = "^3.8"
+fastapi = "^0.105.0"
+numpy = "^1.26.2"
+scipy = "^1.11.4"
+pandas = "^2.1.4"
 
 
 [build-system]
