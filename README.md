@@ -1,6 +1,7 @@
 # CATegorizer
 
 ## How to setup
+Связь с ui не реализована полностью, поэтому поднимается только бэк.
 
 ```console
 $ git clone -b dev https://github.com/mmmhdp/categorizer.git
