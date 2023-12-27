@@ -1,8 +1,7 @@
 .env
 .venv
 .idea
-#dont forget to fullfill ../ml_backend/nltk_data with data
-nltk_data/*
+#nltk_data/*
 
 poetry.lock
 package-lock.json
