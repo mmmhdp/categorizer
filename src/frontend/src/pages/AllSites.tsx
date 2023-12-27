@@ -11,7 +11,7 @@ const siteData = {
 
 function AllSites() {
 
-    const [siteRecords, setSiteRecords] = useState<any[]>([siteData, siteData, siteData, siteData, siteData]);    
+    const [siteRecords, setSiteRecords] = useState<any[]>([siteData]);    
 
     useEffect(() => {
         
