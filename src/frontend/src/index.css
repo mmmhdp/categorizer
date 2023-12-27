@@ -1,0 +1,23 @@
+#root {
+  font-family:  Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color: white;
+  background-color: #0A1426;
+}
+
+:root {
+  background-color: #0A1426;
+  box-sizing: border-box;
+}
+
+.content {
+  position: absolute;
+  top: 76px;
+  left: 0;
+  width: 100%;
+  /* min-height: calc(100% - 76px); */
+  display: flex;
+  /* justify-content: center;
+  align-items: center; */
+}
